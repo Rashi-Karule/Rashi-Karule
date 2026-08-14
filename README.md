@@ -1,98 +1,72 @@
 <div align="center">
-  
-  # 🚀 Hi there, I'm Rashi Karule! 👋
-  
-  <p align="center">
-    <strong>B.Tech Computer Science Student | Full-Stack Developer | Vocalist & Musician 🎵</strong>
-  </p>
 
-  <!-- Animated Typing SVG or Intro Banner Option -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+<h1>Hi there, I'm Rashi! 👋</h1>
 
-  <p align="center">
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" />
-    </a>
-    <a href="mailto:karulerashi@gmail.com">
-      <img src="https://shields.io" alt="Email" />
-    </a>
-  </p>
+<p><em>B.Tech Computer Science Student · Full Stack Developer · Singer 🎵</em></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashi_Karule-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashi-karule-7a46a9201)
+[![Email](https://img.shields.io/badge/Email-karulerashi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karulerashi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rashi--Karule-181717?style=for-the-badge&logo=github)](https://github.com/Rashi-Karule)
+
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 **Education:** Pursuing a B.Tech in Computer Science at **Ramdeobaba University**, Nagpur.
-- 💻 **Core Passion:** Crafting scalable, high-utility real-world software—spanning from complex enterprise healthcare systems to responsive animal welfare platforms.
-- 🎵 **Creative Soul:** Singing and music form my secondary cognitive landscape; I believe code structural architecture shares rhythms with deep melodic compositions!
-- 🌱 **Current Focus:** Deep-diving into production-grade server architectures, advanced database optimizations, cloud deployment matrices, and Gemini-based generative agents.
+- 🎓 B.Tech Computer Science student
+- 💻 I love building real-world projects — from NGO websites to healthcare platforms
+- 🎵 Singer — music is my other language
+- 🌱 Currently exploring full stack development, databases & cloud deployment
+- 🤝 Always up for collaborating on meaningful projects
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Tech Stack
 
-<div align="left">
-  
-  <!-- Languages & Frameworks -->
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Python" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-  <!-- Backend & Infrastructure -->
-  <img src="https://shields.io" alt="Supabase" />
-  <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="TailwindCSS" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Vercel" />
+---
+
+### 🚀 Featured Projects
+
+**🐾 [Juno The Choco Lab](https://animal-welfare-ngo.vercel.app)** — Animal Welfare NGO Website
+> Full stack NGO website · Supabase backend · 4 live forms · Photo uploads · Admin dashboard · Deployed on Vercel
+
+**🏥 [MediCare](https://medicare-webapp-woad.vercel.app)** — Dual Portal Healthcare Platform
+> Next.js · Firebase · Google Maps API · Vertex AI (Gemini) · Real-time queue management · Tele-consultation
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashi-Karule&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-Karule&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rashi-Karule&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-### 🚀 Highlighted Engineering Deployments
+### 🎵 Fun Fact
 
-#### 🏥 [MediCare — Dual Portal Healthcare Platform](https://github.com)
-> A modern healthcare ecosystem implementing dynamic analytics, predictive provider discovery, and instant patient queuing modules.
-- **Architecture:** Next.js, Firebase, TailwindCSS, TypeScript.
-- **Intelligence Vector:** Embedded Google Maps Discovery Matrix + **Vertex AI (Gemini Agent Execution)** for automated predictive telemetry and multi-layered client workflows.
-
-#### 🐾 [Juno The Choco Lab — Animal Welfare Platform](https://github.com)
-> Full-scale live production suite designed for an established Indian animal preservation group.
-- **Architecture:** Structured web client paired with a robust relational **Supabase backend framework**.
-- **Features:** Production dashboard workflow processing multiple live data submission sheets alongside instant asset image file arrays.
-
-#### ⚡ [EV Charging Optimizer](https://github.com)
-> Smart analytical client helping electric vehicle operators navigate Maharashtra's power network load dynamics.
-- **Utility:** Proactively intercepts peak energy premium blocks and localized grid load-shedding trends to reduce average recharging overheads by **up to 40%**.
+> I debug code and hit high notes with equal dedication. 🎶
 
 ---
 
-### 📊 Engineering Analytics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Rashi's GitHub Stats" width="400px" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" width="350px" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</div>
-
----
-
-### 🎙️ Fun Fact
-> *"I debug multi-threaded race conditions and target perfect high notes with the exact same level of programmatic focus and precision."* 🎼
-
-<div align="center">
-  <strong>Let's engineer solutions together. Drop a star ⭐ if you find my repositories helpful!</strong>
+<i>Thanks for stopping by! Let's build something meaningful together ✨</i>
 </div>
